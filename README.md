@@ -1,87 +1,149 @@
-<h1 align="center"> Gustavo Barreto</h1>
+<h1 align="center">
+  Gustavo Barreto
+</h1>
+
+<h3 align="center">
+  🛡️ Cybersecurity Student | Cloud Security | Network Security
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Projects;Cloud+Security;Network+Security;Building+Labs+and+Learning" />
-</p>
-
-<p align="center">
-  Este perfil reúne meus projetos, laboratórios e estudos voltados para Cibersegurança.
-</p>
-
----
-
-<h2 align="center">🛡️ Cybersecurity Toolkit</h2>
-
-<p align="center">
-
-<!-- Sistemas e Desenvolvimento -->
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-
-<!-- Cloud -->
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<!-- Redes e Segurança -->
-
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;SOC+%26+Threat+Monitoring;Cloud+Security+Labs;Network+Security+Research;Building+Cyber+Labs" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Áreas de Estudo</h2>
+## 🧑‍💻 Sobre mim
+
+Olá! Sou Gustavo Barreto, estudante de **Cibersegurança**, focado em:
+
+- 🔐 Segurança de Redes
+- ☁️ Cloud Security
+- 🛡️ Firewalls e Monitoramento
+- 🔎 SIEM e Análise de Logs
+- 🐧 Linux Security
+- 🧪 Laboratórios práticos de segurança
+
+Atualmente desenvolvendo projetos envolvendo redes, segurança defensiva e ambientes de laboratório.
+
+---
+
+<h2 align="center">⚔️ Cybersecurity Arsenal</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Network%20Security-0052CC?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/linux/white" width="45"/>
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="45"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
+<img src="https://cdn.simpleicons.org/github/white" width="45"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45"/>
 
-<img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux%20Security-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SIEM%20%26%20Monitoring-00A4EF?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45"/>
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"/>
+<img src="https://cdn.simpleicons.org/fortinet/EE3124" width="45"/>
 
 </p>
+
+
+---
+
+<h2 align="center">🛡️ Security Focus</h2>
+
+<p align="center">
+
+🔹 Network Security  
+<br>
+🔹 Firewall Configuration  
+<br>
+🔹 SIEM Monitoring  
+<br>
+🔹 Threat Detection  
+<br>
+🔹 Vulnerability Analysis  
+<br>
+🔹 Cloud Security (AWS)
+
+</p>
+
+---
+
+<h2 align="center">🧪 Cyber Labs</h2>
+
+<p align="center">
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/gustavobarretomp.png" />
+
+</p>
+
 
 ---
 
 <h2 align="center">📂 Projetos</h2>
 
-<p align="center">
 
-🔹 Laboratórios de Redes e Segurança  
-<br>
-🔹 Configuração de Firewalls e Monitoramento  
-<br>
-🔹 Estudos de Cloud Security  
-<br>
-🔹 Automação com Python
+<table align="center">
+<tr>
+<td align="center">
 
-</p>
+🌐
+
+<b>Network Security Lab</b>
+
+<br>
+
+Cisco Packet Tracer  
+Routing • VLAN • Firewall
+
+</td>
+
+<td align="center">
+
+☁️
+
+<b>Cloud Security Lab</b>
+
+<br>
+
+AWS  
+IAM • Security Groups • Monitoring
+
+</td>
+
+<td align="center">
+
+🛡️
+
+<b>SOC Lab</b>
+
+<br>
+
+SIEM  
+Logs • Alerts • Detection
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📚 Atualmente estudando</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gustavobarretomp&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+🐧 Linux  
+<br>
+🌐 Redes TCP/IP  
+<br>
+🔥 Fortinet Security  
+<br>
+☁️ AWS Cloud Security  
+<br>
+🔍 SIEM & Threat Detection
+
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarretomp&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
@@ -90,13 +152,16 @@
 <p align="center">
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
+
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0052D4&height=100&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:001F3F&height=120&section=footer"/>
+
 </p>
