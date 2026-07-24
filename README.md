@@ -66,10 +66,9 @@ Cybersecurity Student • Cloud Security • Network Security
 ## 📊 GitHub
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavobarretomp&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarretomp&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/gustavobarretomp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </p>
 
