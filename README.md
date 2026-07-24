@@ -67,6 +67,6 @@ Cybersecurity Student • Cloud Security • Network Security
 
 ## 📫 Contato
 
-<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/gustavo-barreto-meneses/)">
+<a href="(https://www.linkedin.com/in/gustavo-barreto-meneses/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
