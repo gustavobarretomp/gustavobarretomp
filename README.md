@@ -67,7 +67,7 @@ Cybersecurity Student • Cloud Security • Network Security
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gustavobarretomp&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobarretomp&layout=compact&theme=tokyonight"/>
 
