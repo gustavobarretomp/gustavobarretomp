@@ -31,18 +31,21 @@ Este repositório reúne meus projetos práticos, laboratórios e experimentos r
 
 <p align="center">
 
-<img src="https://cdn.simpleicons.org/linux/white" width="45"/>
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="45"/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="45"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
-<img src="https://cdn.simpleicons.org/github/white" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+
 <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45"/>
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="45"/>
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"/>
-<img src="https://cdn.simpleicons.org/fortinet/EE3124" width="45"/>
+
+<img src="https://img.icons8.com/color/48/cisco-anyconnect.png" width="45"/>
+
+<img src="https://img.icons8.com/color/48/wireshark.png" width="45"/>
+
+<img src="https://img.icons8.com/color/48/firewall.png" width="45"/>
 
 </p>
-
 
 ---
 
