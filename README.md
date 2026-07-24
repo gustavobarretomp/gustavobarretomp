@@ -1,9 +1,43 @@
-Atualmente estou cursando Engenharia de Software , área pela qual tenho grande interesse, principalmente no desenvolvimento de soluções tecnológicas  e inovadoras 💡.
+# Olá, eu sou Gustavo! 👋
 
-Dentro desse universo, venho me identificando muito com a área de Cybersegurança 🔐🛡️, que considero essencial para a proteção de sistemas  e dados  no mundo digital 🌐.
+🎓 Estudante de Cibersegurança
 
-Tenho grande interesse em aprender mais sobre segurança da informação , análise de vulnerabilidades  e boas práticas de proteção digital ⚙️🔒.
+🛡️ Apaixonado por Cyber Security, Cloud Security e Redes.
 
-Neste perfil, você pode encontrar códigos desenvolvidos durante a minha graduação , além de projetos voltados à segurança 🛡️🚨, onde aplico na prática os conhecimentos adquiridos 📈.
+Atualmente estou desenvolvendo projetos para fortalecer meus conhecimentos em segurança da informação, Linux, redes e computação em nuvem.
 
-Meu objetivo é continuar evoluindo , adquirindo experiência 💼 e me especializando cada vez mais em Cybersegurança .
+## 🚀 Atualmente estudando
+
+- ☁️ Cloud Security
+- 🌐 Redes de Computadores
+- 🔒 Segurança da Informação
+- 🐧 Linux
+- 🔥 Fortinet (NSE 1, NSE 2 e NSE 3)
+- ☁️ AWS
+- 📝 Python para automação
+
+## 🛠️ Tecnologias
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+</p>
+
+## 📂 Projetos
+
+- 🔐 Firewall Linux
+- 🌐 Redes no Packet Tracer
+- ☁️ Cloud Security Labs
+- 🐍 Scripts em Python
+- 🛡️ Projetos de Segurança da Informação
+
+## 📫 Contato
+
+LinkedIn
+
+E-mail
