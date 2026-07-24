@@ -42,58 +42,13 @@ Este repositório reúne meus projetos práticos, laboratórios e experimentos r
 
 ---
 
-<h2 align="center">🚀 Cybersecurity Projects</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      🌐
-      <br>
-      <b>Network Security Lab</b>
-      <br><br>
-      Laboratórios de redes envolvendo:
-      <br><br>
-      • TCP/IP<br>
-      • VLAN<br>
-      • Routing<br>
-      • Firewall<br>
-      • Monitoramento
-    </td>
-
-    <td align="center" width="33%">
-      ☁️
-      <br>
-      <b>Cloud Security Lab</b>
-      <br><br>
-      Ambientes em nuvem:
-      <br><br>
-      • AWS<br>
-      • IAM<br>
-      • Security Groups<br>
-      • Controle de acesso
-    </td>
-
-    <td align="center" width="33%">
-      🛡️
-      <br>
-      <b>SOC Security Lab</b>
-      <br><br>
-      Projetos envolvendo:
-      <br><br>
-      • Logs<br>
-      • SIEM<br>
-      • Alertas<br>
-      • Threat Detection
-    </td>
-  </tr>
-</table>
 
 ---
 
 <h2 align="center📫 Contato</h2>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/gustavo-barreto-meneses/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
