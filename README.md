@@ -63,19 +63,10 @@ Cybersecurity Student • Cloud Security • Network Security
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <a href="https://github.com/gustavobarretomp" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</p>
-
 ---
 
 ## 📫 Contato
 
-<a href="SEU_LINKEDIN">
+<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/gustavo-barreto-meneses/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
