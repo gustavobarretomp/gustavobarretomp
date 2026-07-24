@@ -118,44 +118,6 @@ Projetos envolvendo:
 </table>
 
 
----
-
-<h2 align="center">🔧 Ferramentas e Tecnologias</h2>
-
-<p align="center">
-
-🐧 Linux  
-<br>
-🔥 Fortinet  
-<br>
-🌐 Cisco Networking  
-<br>
-🦈 Wireshark  
-<br>
-☁️ AWS  
-<br>
-🐍 Python Automation
-
-</p>
-
-
----
-
-<h2 align="center">📁 Repositórios em Destaque</h2>
-
-<p align="center">
-
-🔹 Laboratórios de Redes e Segurança  
-<br>
-🔹 Configuração de Firewalls  
-<br>
-🔹 Análise de Tráfego de Rede  
-<br>
-🔹 Projetos de Cloud Security  
-<br>
-🔹 Scripts de Automação
-
-</p>
 
 
 ---
