@@ -37,7 +37,7 @@
 <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="45" title="VirtualBox"/>
 <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="45" title="Wireshark"/>
 <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="45" title="Cisco Packet Tracer"/>
-<img src="https://www.vectorlogo.zone/logos/fortinet/fortinet-icon.svg" width="45" title="Fortinet"/>
+<img src="https://cdn.simpleicons.org/fortinet" width="45" title="Fortinet"/>
 
 </p>
 
