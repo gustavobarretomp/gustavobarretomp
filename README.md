@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Gustavo Barreto</h1>
+<h1 align="center"> Gustavo Barreto</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Projects;Cloud+Security;Network+Security;Building+Labs+and+Learning" />
