@@ -8,7 +8,7 @@ Cybersecurity Student • Cloud Security • Network Security
 
 ## 👨‍💻 Sobre mim
 
-🛡️ Estudando Cibersegurança há cerca de 2 anos.
+🛡️ Peril para projetos de Cibersegurança.
 
 🎯 Atualmente focado em:
 
@@ -33,7 +33,6 @@ Cybersecurity Student • Cloud Security • Network Security
 
 </p>
 
-### 🛡️ Também estudo
 
 <p align="center">
 
