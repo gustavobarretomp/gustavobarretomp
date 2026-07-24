@@ -5,29 +5,30 @@
 </p>
 
 <p align="center">
-Este perfil reúne meus projetos, laboratórios e estudos voltados para Cibersegurança.
+  Este perfil reúne meus projetos, laboratórios e estudos voltados para Cibersegurança.
 </p>
 
 ---
 
-## 🛠️ Cybersecurity Toolkit
+<h2 align="center">🛠️ Cybersecurity Toolkit</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,python,java,git,vscode,aws" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/cisco" width="45" title="Cisco"/>
-<img src="https://cdn.simpleicons.org/fortinet" width="45" title="Fortinet"/>
-<img src="https://cdn.simpleicons.org/wireshark" width="45" title="Wireshark"/>
-<img src="https://cdn.simpleicons.org/virtualbox" width="45" title="VirtualBox"/>
-
+<img src="https://cdn.simpleicons.org/linux" height="45"/>
+<img src="https://cdn.simpleicons.org/ubuntu" height="45"/>
+<img src="https://cdn.simpleicons.org/python" height="45"/>
+<img src="https://cdn.simpleicons.org/java" height="45"/>
+<img src="https://cdn.simpleicons.org/git" height="45"/>
+<img src="https://cdn.simpleicons.org/visualstudiocode" height="45"/>
+<img src="https://cdn.simpleicons.org/amazonaws" height="45"/>
+<img src="https://cdn.simpleicons.org/cisco" height="45"/>
+<img src="https://cdn.simpleicons.org/fortinet" height="45"/>
+<img src="https://cdn.simpleicons.org/wireshark" height="45"/>
+<img src="https://cdn.simpleicons.org/virtualbox" height="45"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
 
@@ -39,12 +40,16 @@ Este perfil reúne meus projetos, laboratórios e estudos voltados para Ciberseg
 
 ---
 
-## 📫 Contato
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
-
 <a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0052D4&height=100&section=footer"/>
 </p>
