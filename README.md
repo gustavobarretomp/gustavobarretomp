@@ -2,7 +2,7 @@
   Gustavo Barreto 
 <h2 align="center📫 Contato</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gustavo-barreto-meneses/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
