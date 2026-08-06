@@ -1,12 +1,12 @@
 <h1 align="center">
   Gustavo Barreto
 </h1>
+<h3 align="center">
+  🛡️ Cybersecurity Projects | Network Security | Cloud Security
+</h3>
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Labs;Network+Security+Projects;Cloud+Security+Experiments;Security+Automation;Defensive+Security+Research" alt="Typing Animation"/>
-</p>
 
 ---
 
@@ -51,6 +51,9 @@ Este repositório reúne meus projetos práticos, laboratórios e experimentos r
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Labs;Network+Security+Projects;Cloud+Security+Experiments;Security+Automation;Defensive+Security+Research" alt="Typing Animation"/>
+</p>
 ---
 
 <p align="center">
