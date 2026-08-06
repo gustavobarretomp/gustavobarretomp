@@ -1,5 +1,13 @@
 <h1 align="center">
-  Gustavo Barreto
+  Gustavo Barreto 
+<h2 align="center📫 Contato</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-barreto-meneses/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 </h1>
 <h3 align="center">
   🛡️ Cybersecurity Projects | Network Security | Cloud Security
@@ -41,7 +49,7 @@ Este repositório reúne meus projetos práticos, laboratórios e experimentos r
 ---
 
 
----
+
 
 <h2 align="center📫 Contato</h2>
 
