@@ -47,7 +47,7 @@ Este repositório reúne meus projetos práticos, laboratórios e experimentos r
 
 
 
-
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Cybersecurity+Labs;Network+Security+Projects;Cloud+Security+Experiments;Security+Automation;Defensive+Security+Research" alt="Typing Animation"/>
